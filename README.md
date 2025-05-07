@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thekenzai&label=Profile%20views&color=553a99&style=flat" alt="thekenzai" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thekenzai&label=Profile%20views&color=553a99&style=flat" alt="kenzai0" /> </p>
 <div align="center"> <img src="https://wakatime.com/badge/user/a8f7dcc4-3a3e-4b0f-ae37-7339db2a7b46.svg" /> </div>
 <br>
 <p align="center">
@@ -36,12 +36,12 @@
 
 </tr></table>
 
-<p href="https://github.com/thekenzai" align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufalperendumlu&layout=compact&langs_count=8&theme=algolia"/> 
+<p href="https://github.com/kenzai0" align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenzai0&layout=compact&langs_count=8&theme=algolia"/> 
 </p>
 
-<p href="https://github.com/yusufalperendumlu" align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thekenzai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p href="https://github.com/kenzai0" align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenzai0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=thekenzai&theme=algolia" alt="thekenzai" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kenzai0&theme=algolia" alt="kenzai0" /></p>
